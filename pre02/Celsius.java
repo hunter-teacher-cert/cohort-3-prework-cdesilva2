@@ -18,6 +18,6 @@ public class Celsius {
 
         // convert and output the result
         far = (cel * fardiv) + 32;
-        System.out.println(cel, "C = ", far, "F = ");
+        System.out.println(cel +" C = " +far +" F = ");
     }
 }
