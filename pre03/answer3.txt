@@ -1,0 +1,7 @@
+Draw a stack diagram that shows the state of the program the first time ping is invoked.
+main -> system.out -> zoop() -> baffle() -> system.out -> ping()
+
+What is output by the following program? Be precise about the placement of spaces and newlines.
+No, I wug.
+You wugga wug.
+I wug.

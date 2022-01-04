@@ -1,0 +1,3 @@
+Draw a stack diagram that shows the state of the program the second time zoop is invoked.
+
+What is the complete output?
