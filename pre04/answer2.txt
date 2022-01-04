@@ -16,3 +16,12 @@ public static void zippo(String quince, int flag) {
         System.out.println("boo-wa-ha-ha");
     }
 } (2)
+
+3. What is the value of the parameter blimp when baffle gets invoked?
+rattle
+
+4.  What is the output of this program?
+ik
+rattle
+ping zoop
+bo-wa-ha-ha
