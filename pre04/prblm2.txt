@@ -1,3 +1,7 @@
 Draw a stack diagram that shows the state of the program the second time zoop is invoked.
+zoop ("breakfast" , fork) -> system.out.println("breakfast") -> else (system.out.println("!"))
 
 What is the complete output?
+"Just for"
+"Any not more"
+"It's breakfast"
